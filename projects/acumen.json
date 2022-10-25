@@ -1,0 +1,24 @@
+{
+  "name": "Acumen Protocol",
+  "slug": "Acumen",
+  "date": "2022-9-03",
+  "highlight": "Users can earn an attractive, stable and uncorrelated yield on their Stablecoins, while also having a positive social impact on struggling entrepreneurs and SMEs in emerging economies.",
+  "logo": "/img/acumen.png",
+  "tags": [
+    "defi",
+    "stablecoins",
+    "yield",
+    "DAO"
+
+  ],
+  "status": "Coming soon",
+  "website": "https://acumen.network/",
+  "twitter": "https://twitter.com/acumenofficial",
+  "summary": "Acumen leverages DeFi to power microfinance. Acumen does this by bridging crypto and traditional assets offering crypto holders stable uncorrelated yield and providing small businesses with access to reasonably priced capital. Acumen’s debt tranches are underwritten by a large local bank, allowing Acumen to offer real-world, high, underwritten, collateralized and stable yield to DeFi users.",
+  "telegram": "https://t.me/AcumenOfficial",
+  "discord": "https://discord.gg/UXDnngxRmn",
+  "docs": "https://docs.acumen.network/",
+  "github": "https://github.com/AcumenProtocol",
+  "token": "",
+  "cmc": ""
+}
